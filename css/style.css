@@ -17,13 +17,13 @@ body{margin:0;background:var(--blue);color:#fff;font-family:var(--font-body);fon
 p{margin:0 0 1em}
 
 .topbar{position:sticky;top:0;z-index:20;background:var(--blue);border-bottom:1px solid rgba(255,255,255,.14)}
-.topbar-inner{max-width:var(--maxw);margin:0 auto;padding:12px 24px;display:flex;align-items:center;gap:18px}
-.brand{display:flex;align-items:center;text-decoration:none;font-family:var(--font-display);font-size:1.34rem;letter-spacing:-.01em;line-height:1}
+.topbar-inner{max-width:var(--maxw);margin:0 auto;padding:20px 24px;display:flex;align-items:center;gap:18px}
+.brand{display:flex;align-items:center;text-decoration:none;font-family:var(--font-display);font-size:1.7rem;letter-spacing:-.01em;line-height:1}
 .brand .mark{color:var(--green);font-weight:600}
-.brand .dot{width:7px;height:7px;border-radius:50%;background:var(--green);margin:0 7px 8px}
+.brand .dot{width:9px;height:9px;border-radius:50%;background:var(--green);margin:0 9px 10px}
 .brand .sub{color:#fff;font-weight:400}
-.nav{margin-left:auto;display:flex;gap:20px}
-.nav a{font-family:var(--font-body);font-weight:700;font-size:.74rem;text-transform:uppercase;letter-spacing:.1em;color:#C6D0F5;text-decoration:none}
+.nav{margin-left:auto;display:flex;gap:28px}
+.nav a{font-family:var(--font-body);font-weight:700;font-size:.85rem;text-transform:uppercase;letter-spacing:.1em;color:#C6D0F5;text-decoration:none}
 .nav a:hover{color:var(--green-bright)}
 
 .section{padding:64px 0}
