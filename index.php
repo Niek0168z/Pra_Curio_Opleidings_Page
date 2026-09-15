@@ -74,14 +74,14 @@
         <span class="vak-code">RE</span>
         <div>
           <h3>Rekenen <span class="vak-uur">&plusmn; 1 u/wk</span></h3>
-          <p>Rekenen op niveau 3F, met nadruk op wat je in code tegenkomt: het binaire en hexadecimale stelsel, verhoudingen en logica.</p>
+          <p>Rekenen een verplicht vak wat je moet afronden. Je kan het eerder afronden als je daar klaar voor bent.</p>
         </div>
       </li>
       <li class="vak">
         <span class="vak-code">BU</span>
         <div>
           <h3>Burgerschap <span class="vak-uur">&plusmn; 1 u/wk</span></h3>
-          <p>De vier dimensies van burgerschap: politiek-juridisch, economisch, sociaal-maatschappelijk en vitaal. Met thema's als privacy, AI en duurzame ICT.</p>
+          <p>Bij Burgerschap leer je veel over hoe het gaat met de wereld en over Nederland. Je gaat debatten voeren en leren over de politiek en economie.</p>
         </div>
       </li>
       <li class="vak">
@@ -164,7 +164,6 @@
       <li>Een lesblok <em>Fundament 1: WEB</em> duurt 105 minuten; de overige lessen 75 minuten.</li>
       <li>Afkortingen: <strong>Bu</strong> = burgerschap, <strong>Re</strong> = rekenen, <strong>Ne</strong> = Nederlands; <strong>Mtu</strong> en <strong>Mtg</strong> zijn mentor-/studieloopbaanuren.</li>
       <li>De RN-nummers verwijzen naar lokalen op de school. De meeste lessen vinden plaas op RN-2xx.</li>
-      <li>&ldquo;e.a.&rdquo; betekent dat er meerdere docenten en lokalen bij het blok horen; je team krijgt bij aanvang de precieze indeling.</li>
       <li>Vanaf jaar&nbsp;2 loop je stage en ben je minder dagen op school.</li>
     </ul>
   </div>
@@ -185,15 +184,14 @@
         <p>Stand-up van tien minuten: wat is af, waar ben je mee bezig, waar loop je vast? Zo weet iedereen waar het team staat.</p>
       </li>
       <li>
-        <span class="ritme-when">Halverwege</span>
-        <p>Tussenreview met de docent-opdrachtgever. Klopt wat jullie bouwen met de vraag? Waar nodig stellen jullie de planning bij.</p>
+        <span class="ritme-when">Tussendoor</span>
+        <p>Tussendoor kan je natuurlijk vragen stellen aan de docent. Verder in de opleiding wordt je docent de klant, daardoor moet je meer met je groep in oplossingen gaan denken.</p>
       </li>
       <li>
-        <span class="ritme-when">Sprinteinde</span>
-        <p>Demo van werkende software voor de klas, gevolgd door een retrospective: wat ging goed en wat pakken jullie volgende sprint anders aan?</p>
+        <span class="ritme-when">Producteinde</span>
+        <p>Aan het einde van je project moet je een oplevering doen. Dat kan voor de klas of 1 op 1 met de docent. Daar laat je zien wat je gebouwd heb. Daarna volgt een retrospective: wat ging goed en wat pakken jullie volgende keer anders aan?</p>
       </li>
     </ol>
-    <p class="prose-soft" style="margin-top:26px">De rollen (zoals scrum-master en contactpersoon voor de opdrachtgever) rouleren, zodat iedereen alles een keer doet. Samenwerken telt echt mee in je beoordeling: naast het eindresultaat kijken we naar je bijdrage, en je teamgenoten geven peerfeedback.</p>
   </div>
 </section>
 
