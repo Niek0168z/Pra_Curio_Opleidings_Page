@@ -53,7 +53,7 @@
         <span class="vak-code">CHL</span>
         <div>
           <h3>Challenges <span class="vak-uur">&plusmn; 13 u/wk</span></h3>
-          <p>Het beroepsproject. In een team van vier of vijf werk je aan een echte opdracht &mdash; van planning tot oplevering en demo. Woensdag en vrijdagochtend zijn hele projectblokken; de docent is je coach én speelt de opdrachtgever.</p>
+          <p>Het beroepsproject. In een team van drie of vier werk je aan een echte opdracht &mdash; van planning tot oplevering en demo. Woensdag en vrijdagochtend zijn hele projectblokken; de docent is je coach én speelt de opdrachtgever.</p>
         </div>
       </li>
       <li class="vak">
@@ -67,7 +67,7 @@
         <span class="vak-code">NE</span>
         <div>
           <h3>Nederlands <span class="vak-uur">&plusmn; 1,5 u/wk</span></h3>
-          <p>Rapporteren, presenteren en zakelijk communiceren op niveau 3F. Je oefent met documentatie, een adviesrapport en een pitch van je project.</p>
+          <p>Rapporteren, presenteren en zakelijk communiceren. Je oefent met documentatie, een adviesrapport en een pitch van je project.</p>
         </div>
       </li>
       <li class="vak">
@@ -165,8 +165,7 @@
       <li>Afkortingen: <strong>Bu</strong> = burgerschap, <strong>Re</strong> = rekenen, <strong>Ne</strong> = Nederlands; <strong>Mtu</strong> en <strong>Mtg</strong> zijn mentor-/studieloopbaanuren.</li>
       <li>De RN-nummers verwijzen naar lokalen op de school. De meeste lessen vinden plaas op RN-2xx.</li>
       <li>&ldquo;e.a.&rdquo; betekent dat er meerdere docenten en lokalen bij het blok horen; je team krijgt bij aanvang de precieze indeling.</li>
-      <li>Het rooster wisselt per periode (vier per jaar); vakken die klaar zijn maken plaats voor nieuwe.</li>
-      <li>Vanaf jaar&nbsp;2 loop je stage (bpv) en ben je minder dagen op school.</li>
+      <li>Vanaf jaar&nbsp;2 loop je stage en ben je minder dagen op school.</li>
     </ul>
   </div>
 </section>
@@ -175,7 +174,7 @@
   <div class="section-inner">
     <p class="kicker">groepswerk</p>
     <h2>Zo werk je in groepen</h2>
-    <p class="prose-soft">Bij het beroepsproject werk je in een vast team van vier of vijf studenten, volgens een lichte vorm van Scrum. Jullie werken in sprints van twee weken naar een werkend stukje software toe. De docent is jullie coach én speelt de opdrachtgever.</p>
+    <p class="prose-soft">Bij het beroepsproject werk je in een vast team van meesal drie of vier studenten, volgens een lichte vorm van Scrum. Jullie werken in sprints van twee weken naar een werkend stukje software toe. De docent is jullie coach én speelt de opdrachtgever.</p>
     <ol class="ritme">
       <li>
         <span class="ritme-when">Sprintstart</span>
@@ -203,14 +202,8 @@
     <p class="kicker">sfeer</p>
     <h2>De sfeer op de afdeling</h2>
     <p class="prose">Het is informeel. Je noemt docenten bij hun voornaam en de leerpleinen zijn de hele dag open, ook in tussenuren. Een koptelefoon op en gefocust doorwerken is normaal, en de ongeschreven regel is: vraag eerst je buurman, dan het internet, dan de docent.</p>
-    <p class="prose">Iedereen begint op een ander punt. Sommige studenten programmeren al jaren thuis, anderen hebben nog nooit een regel code geschreven &mdash; dat maakt niet uit. Er is een wekelijks inhaalspreekuur en extra uitleg voor wie dat wil, en je haalt veel van elkaar.</p>
-    <p class="prose">Buiten de lessen om is er genoeg te doen:</p>
-    <ul class="extras">
-      <li>meedoen aan hackathons en de Skills Heroes-vakwedstrijden;</li>
-      <li>gastlessen en rondleidingen bij ICT-bedrijven uit de regio West-Brabant;</li>
-      <li>game- en pizza-middagen die studenten zelf organiseren;</li>
-      <li>een Discord-server voor de opleiding waar ook oud-studenten rondhangen.</li>
-    </ul>
+    <p class="prose">Iedereen begint op een ander punt. Sommige studenten programmeren al jaren thuis, anderen hebben nog nooit een regel code geschreven &mdash; dat maakt niet uit.</p>
+    <p class="prose">Iedereen is welkom en met elkaar gaan we er een hele leuke jaren van maken.</p>
   </div>
 </section>
 
